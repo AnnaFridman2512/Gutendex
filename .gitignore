@@ -1,0 +1,80 @@
+*.pyc
+.env
+.env
+venv
+/lib
+/bin
+pyvenv.cfg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django-specific
+*.log
+*.pot
+
+local_settings.py
+
+# Virtual environment
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+media/
+
+# IDE-specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+# Compiled Python files
+
+*.pyo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Icon?
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.xml
+*.db
+
+
+# Temporary files
+*.swp
+*~
